@@ -33,5 +33,6 @@ Install the dependencies using the following command:
 
 ```bash
 pip install -r requirements
+```
 
-Download the assets file from the link ""
+Download the assets file from the link "https://mega.nz/folder/FakRFDZb#fjWERS-Amw4SzbaXpW0p_w"
